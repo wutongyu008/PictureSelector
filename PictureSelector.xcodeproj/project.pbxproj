@@ -13,6 +13,7 @@
 		103BC7971C21021500E5912D /* UIImage+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 103BC7911C21021500E5912D /* UIImage+Extension.swift */; };
 		103BC7981C21021500E5912D /* UIImageView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 103BC7921C21021500E5912D /* UIImageView+Extension.swift */; };
 		103BC7991C21021500E5912D /* UILabel+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 103BC7931C21021500E5912D /* UILabel+Extension.swift */; };
+		10418AFA1C30F2C400B45F22 /* picture.gif in Resources */ = {isa = PBXBuildFile; fileRef = 10418AF91C30F2C400B45F22 /* picture.gif */; };
 		10B1AC211BAEF89500767802 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10B1AC201BAEF89500767802 /* AppDelegate.swift */; };
 		10B1AC281BAEF89500767802 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 10B1AC271BAEF89500767802 /* Assets.xcassets */; };
 		10B1AC331BAEF9A900767802 /* PictureSelectorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10B1AC321BAEF9A900767802 /* PictureSelectorViewController.swift */; };
@@ -25,6 +26,7 @@
 		103BC7911C21021500E5912D /* UIImage+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIImage+Extension.swift"; sourceTree = "<group>"; };
 		103BC7921C21021500E5912D /* UIImageView+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIImageView+Extension.swift"; sourceTree = "<group>"; };
 		103BC7931C21021500E5912D /* UILabel+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UILabel+Extension.swift"; sourceTree = "<group>"; };
+		10418AF91C30F2C400B45F22 /* picture.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = picture.gif; sourceTree = "<group>"; };
 		10B1AC1D1BAEF89500767802 /* PictureSelector.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PictureSelector.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		10B1AC201BAEF89500767802 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		10B1AC271BAEF89500767802 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 				103BC78D1C21021500E5912D /* Extension */,
 				10B1AC201BAEF89500767802 /* AppDelegate.swift */,
 				10B1AC271BAEF89500767802 /* Assets.xcassets */,
+				10418AF91C30F2C400B45F22 /* picture.gif */,
 				10B1AC2C1BAEF89500767802 /* Info.plist */,
 			);
 			path = PictureSelector;
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				10B1AC281BAEF89500767802 /* Assets.xcassets in Resources */,
+				10418AFA1C30F2C400B45F22 /* picture.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

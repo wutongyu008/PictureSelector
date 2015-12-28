@@ -162,6 +162,7 @@ private class pictureSelectorCell: UICollectionViewCell {
     }
 
     required init?(coder aDecoder: NSCoder) {
+        super.init(coder: aDecoder)
         setupUI()
     }
     
